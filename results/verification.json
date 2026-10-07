@@ -1,0 +1,35 @@
+{
+  "Logistic regression": {
+    "independent_metrics": {
+      "tn": 9384,
+      "fp": 781,
+      "fn": 1358,
+      "tp": 1810,
+      "accuracy": 0.8395709892747318,
+      "f1_yes": 0.6285813509289807,
+      "recall_yes": 0.5713383838383839,
+      "precision_yes": 0.6985719799305288,
+      "balanced_accuracy": 0.7472530581267669,
+      "average_precision": 0.7024686977285873,
+      "roc_auc": 0.8888247328176004
+    },
+    "status": "PASS"
+  },
+  "Random forest": {
+    "independent_metrics": {
+      "tn": 9424,
+      "fp": 741,
+      "fn": 1394,
+      "tp": 1774,
+      "accuracy": 0.8398709967749194,
+      "f1_yes": 0.6243181418265001,
+      "recall_yes": 0.5599747474747475,
+      "precision_yes": 0.7053677932405567,
+      "balanced_accuracy": 0.7435387756065326,
+      "average_precision": 0.7087011773605143,
+      "roc_auc": 0.8899826784818177
+    },
+    "status": "PASS"
+  },
+  "split_and_selection": "PASS"
+}
