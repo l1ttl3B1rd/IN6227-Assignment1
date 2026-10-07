@@ -1,0 +1,9 @@
+dataset/
+tmp/
+.venv/
+__pycache__/
+.DS_Store
+output/
+results/test_predictions.csv
+results/cv_folds.csv
+*.zip
